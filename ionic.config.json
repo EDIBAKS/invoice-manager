@@ -1,0 +1,7 @@
+{
+  "name": "invoice-manager",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}

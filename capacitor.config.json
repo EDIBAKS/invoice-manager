@@ -1,0 +1,8 @@
+{
+  "appId": "invoice.manager",
+  "appName": "invoice-manager",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
